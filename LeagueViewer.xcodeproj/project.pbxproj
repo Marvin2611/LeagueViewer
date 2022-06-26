@@ -112,6 +112,7 @@
 		3F0F2C77285B5C42008DA39C = {
 			isa = PBXGroup;
 			children = (
+				3FCDC4CD2868BEAB003599DB /* Build */,
 				3F0F2C82285B5C42008DA39C /* LeagueViewer */,
 				3F0F2C93285B5C49008DA39C /* LeagueViewerTests */,
 				3F0F2C9D285B5C49008DA39C /* LeagueViewerUITests */,
@@ -224,6 +225,13 @@
 				3FB58DE3285FE61200E40EB1 /* Extensions.swift */,
 			);
 			path = Classes;
+			sourceTree = "<group>";
+		};
+		3FCDC4CD2868BEAB003599DB /* Build */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Build;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
