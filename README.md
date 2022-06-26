@@ -16,5 +16,9 @@ Additional information can be found in the CodeSnippets folder providing:
 Features - A list of bugs and features
 HelpfulSources - A list of used tutorials/code
 
+Unfortunately Unit Tests didn't work, because the mac i was working on
+wanted an admin password everytime i tried to run the Tests 
+(No permission for developer tools)
+
 ## Author
 Marvin Ising
