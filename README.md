@@ -12,4 +12,9 @@ Name: "Hide on bush" | Region: "KR"
 
 ## More information
 Additional information can be found in the CodeSnippets folder providing:
+
 Features - A list of bugs and features
+
+
+## Author
+Marvin Ising
